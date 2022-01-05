@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+    margin-left: 40px;
+}
+.nan{
+    color: rgba(0, 0, 139, 0.596);
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.nandi{
+    display: flex;
+    
+}
+.half-width img{
+    width: 100%;
+}
+.nandi{
+    display: flex;
+}
+.bon{
+    margin: 40px;
+}
